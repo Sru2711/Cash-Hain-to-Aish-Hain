@@ -1,0 +1,55 @@
+.debit-card{
+    display:flex;
+    flex-direction:column;
+    height:230px;
+    width:350px;
+     margin-left:500px;
+     margin-top:200px;
+     border-radius:5%;
+    background-image: radial-gradient( circle 976px at 51.2% 51%,  rgba(11,27,103,1) 0%, rgba(16,66,157,1) 0%, rgba(11,27,103,1) 17.3%, rgba(11,27,103,1) 58.8%, rgba(11,27,103,1) 71.4%, rgba(16,66,157,1) 100.2%, rgba(187,187,187,1) 100.2% );
+}
+.image1{
+    margin-left:20px;
+    margin-top:20px;
+    height:60px;
+    
+}
+.image2{
+    height:60px;
+    width:70px
+}
+.image3{
+    margin-left:250px;
+    margin-top:-70px;
+    height:90px
+}
+.mastercard{
+    color: aliceblue;
+    margin-top:20px;
+    margin-left:10px;
+    font-size: 30px;
+    font-family:cursive;
+}
+.span1{
+    color:#C0C0C0;
+    font-family: "Lucida Console", Courier, monospace;
+    font-size:20px;
+    
+    
+}
+.span2{
+    color:white;
+    font-size: 10px;
+    margin-top:10px;
+}
+.span3{
+    color:white;
+    font-size:15px;
+    margin-top:5px
+}
+.span4{
+    color:white;
+    font-size:20px;
+    margin-top:20px;
+    font-family: sans-serif;
+}
